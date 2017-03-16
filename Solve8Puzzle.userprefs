@@ -1,0 +1,16 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/GameController.cs">
+    <Files>
+      <File FileName="Assets/TrulyBrainPuzzle.cs" Line="78" Column="4" />
+      <File FileName="Assets/Puzzle.cs" Line="76" Column="12" />
+      <File FileName="Assets/TrulySpinach.cs" Line="18" Column="5" />
+      <File FileName="Assets/PuzzleVisualizer.cs" Line="69" Column="16" />
+      <File FileName="Assets/GameController.cs" Line="44" Column="9" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
